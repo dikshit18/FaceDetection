@@ -1,4 +1,4 @@
-Identify faces in Iamges using the most popular python library- OpenCV.
+Identify faces in Images using the most popular python library- OpenCV.
 
 This mini script/project provides you a simple overview of how the face detection work.
 
